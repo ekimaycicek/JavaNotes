@@ -1,4 +1,4 @@
-public class LinkedListNotlar {
+public class LinkedList {
      /*
         LinkedList .....
         1- LinkedList'de elemanlar "data" ve "adress" olmak uzere iki ksımdan oluşur ve eleman yerine "node" olarak tanımlanır.

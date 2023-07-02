@@ -1,4 +1,4 @@
-public class VarargsNotlar {
+public class Varargs {
      /*
         VARARGS :
         var----variety cesitlilik args---arguments
